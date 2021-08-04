@@ -1,0 +1,6 @@
+.content__color_gradient_pink-orange {
+  background: linear-gradient(90deg, #B99EC6 1%, #E272AC 3%, #FA5CA0 27%, #FE9548 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #E272AC;
+}

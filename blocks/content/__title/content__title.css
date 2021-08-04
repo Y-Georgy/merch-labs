@@ -1,3 +1,8 @@
 .content__title {
-    
-}
+    margin: 31px 0 0;
+    font-family: 'Montserrat-ExtraBold';
+    font-weight: 800;
+    font-size: 98px;
+    line-height: 120px;
+    text-align: center;
+  }
