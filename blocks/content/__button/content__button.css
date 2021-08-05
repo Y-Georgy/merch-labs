@@ -6,7 +6,7 @@
   line-height: 24px;
   font-size: 16px;
   text-align: center;
-  min-width: 120px;
+  min-width: 168px;
 
   border-top: 12px solid #74E2EB;
   border-bottom: 12px solid #74E2EB;
@@ -15,7 +15,4 @@
   border-radius: 8px;
   padding: 0;
   margin: 0 0 0 24px;
-
-
-
 }

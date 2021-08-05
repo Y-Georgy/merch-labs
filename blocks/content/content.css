@@ -2,7 +2,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 117px 243px 85px;
-  min-width: 700px;
+  margin: 117px 248px 85px 206px;
+  min-width: 698px;
+  outline: solid 1px green;
 
 }
