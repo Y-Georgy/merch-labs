@@ -1,4 +1,21 @@
 .page {
-    max-width: 1152px;
-    position: relative;
+  width: 1152px;
+  position: relative;
+
+  outline: orangered 1px solid;
+  z-index: 0;
 }
+
+.page::before {
+  position: absolute;
+  content: '';
+  width: 608px;
+  height: 608px;
+  left: -304px;
+  top: 18px;
+  background-image: url(../../img/bg-img.svg);
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+

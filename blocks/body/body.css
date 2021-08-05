@@ -1,17 +1,14 @@
 .body {
     font-family: 'Source Sans Pro', 'Montserrat-ExtraBold', 'Arial', sans-serif;
     background: linear-gradient(114.04deg, #F7FFFE 33.96%, #FFFFFF 90.96%);
+    background-color: #F7FFFE;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #F7FFFE;
-    background-image: url(../../img/bgrnd-image.svg);
-    background-position: calc(50% - 535px) 18px;
-    background-repeat: no-repeat;
-    background-size: 607px 608px;
+
 
 }
-
+/*
 * {
   outline: orangered 1px dashed;
-}
+} */

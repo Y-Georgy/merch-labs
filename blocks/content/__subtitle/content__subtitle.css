@@ -7,4 +7,6 @@
   text-align: center;
   margin: 39px 0 0;
   color: #09101D;
+  position: relative;
+  z-index: 2;
 }
