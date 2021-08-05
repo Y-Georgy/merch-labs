@@ -12,3 +12,6 @@
 @import url(./blocks/content/__form-email/content__form-email.css);
 @import url(./blocks/content/__input/content__input.css);
 @import url(./blocks/content/__button/content__button.css);
+@import url(./blocks/content/__subtitle/content__subtitle.css);
+
+@import url(./blocks/content/__image/image.css);

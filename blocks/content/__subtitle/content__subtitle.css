@@ -1,0 +1,10 @@
+.content__subtitle {
+  font-family: 'Source Sans Pro';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  max-width: 459px;
+  text-align: center;
+  margin: 39px 0 0;
+  color: #09101D;
+}

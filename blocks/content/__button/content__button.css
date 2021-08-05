@@ -1,3 +1,21 @@
 .content__button {
+  font-family: 'Source Sans Pro';
+  font-weight: 600;
+  background-color: #74E2EB;
+  color: #fff;
+  line-height: 24px;
+  font-size: 16px;
+  text-align: center;
+  min-width: 120px;
+
+  border-top: 12px solid #74E2EB;
+  border-bottom: 12px solid #74E2EB;
+  border-left: 24px solid #74E2EB;
+  border-right: 24px solid #74E2EB;
+  border-radius: 8px;
+  padding: 0;
+  margin: 0 0 0 24px;
+
+
 
 }
