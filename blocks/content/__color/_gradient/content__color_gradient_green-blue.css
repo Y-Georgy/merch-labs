@@ -1,7 +1,8 @@
 .content__color_gradient_green-blue {
   background:
-    linear-gradient(170deg, transparent 50%, #90C5DC 75% , #4D85D5 95%, transparent 95%),
-    linear-gradient(90deg, #A2FC7A 1%, #75E0E8 56%, #90C5DC 100%);
+    linear-gradient(70deg, transparent 92%, #4D85D5 100%),
+    linear-gradient(170deg, transparent 50%, #90C5DC 80% , #4D85D5 100%),
+    linear-gradient(90deg, #A2FC7A 1%, #75E0E8 56%, #74E2EB 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   color: #0D61BC;
