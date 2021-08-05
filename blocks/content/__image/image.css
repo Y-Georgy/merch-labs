@@ -1,33 +1,9 @@
-.content__image-left-1 {
+.content__image-left {
   position: absolute;
-  width: 51px;
-  height: 49px;
+  width: 244px;
+  height: 463px;
   top: 119px;
-  left: 41px;
-}
-
-.content__image-left-2 {
-  position: absolute;
-  width: 100px;
-  height: 104px;
-  top: 161px;
-  left: 186px;
-}
-
-.content__image-left-3 {
-  position: absolute;
-  width: 64px;
-  height: 62px;
-  top: 315px;
-  left: 46px;
-}
-
-.content__image-left-4 {
-  position: absolute;
-  width: 94px;
-  height: 85px;
-  top: 496px;
-  left: 90px;
+  left: 42px;
 }
 
 .content__image-right {
