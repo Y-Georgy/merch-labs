@@ -6,5 +6,18 @@
   background-color: #fff;
   position: relative;
   z-index: 2;
-  left: -8px;
+  /* left: -8px; */
+}
+
+@media (max-width: 550px) {
+  .content__form-email {
+    border: 22px #fff solid;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .content__form-email {
+    border: 14px #fff solid;
+  }
 }

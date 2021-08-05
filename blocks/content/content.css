@@ -2,8 +2,37 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 117px 248px 85px 206px;
-  min-width: 698px;
-  /* outline: solid 1px green; */
+  margin: 117px auto 85px ;
+  /* min-width: 698px; */
+}
 
+/* @media (max-width: 1025px) {
+  .content {
+    margin: 117px auto 85px;
+  }
+}
+
+@media (max-width: 900px) {
+  .content {
+    width: 100vw;
+    margin: 80px auto 85px;
+  }
+} */
+
+@media (max-width: 850px) {
+  .content {
+    margin-top: 105px;
+  }
+}
+
+@media (max-width: 650px) {
+  .content {
+    margin-top: 60px;
+  }
+}
+
+@media (max-width: 550px) {
+  .content {
+    margin-top: 50px;
+  }
 }

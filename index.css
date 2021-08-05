@@ -8,6 +8,7 @@
 @import url(./blocks/content/__title/content__title.css);
 @import url(./blocks/content/__color/_gradient/content__color_gradient_green-blue.css);
 @import url(./blocks/content/__color/_gradient/content__color_gradient_pink-orange.css);
+@import url(./blocks/content/__logo/content__logo.css);
 
 @import url(./blocks/content/__form-email/content__form-email.css);
 @import url(./blocks/content/__input/content__input.css);

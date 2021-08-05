@@ -6,3 +6,26 @@
     line-height: 120px;
     text-align: center;
   }
+
+@media (max-width: 850px) {
+  .content__title {
+    font-size: 80px;
+    line-height: 100px;
+    margin-top: 31px;
+  }
+}
+
+@media (max-width: 650px) {
+  .content__title {
+    font-size: 65px;
+    line-height: 90px;
+    margin-top: 31px;
+  }
+}
+
+@media (max-width: 550px) {
+  .content__title {
+    max-width: 450px;
+    line-height: 65px;
+  }
+}

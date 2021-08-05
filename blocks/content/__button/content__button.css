@@ -17,3 +17,39 @@
   margin: 0 0 0 24px;
   color: #F6FFFE;
 }
+
+@media (max-width: 850px) {
+  .content__button {
+    min-width: 100px;
+  }
+}
+
+@media (max-width: 650px) {
+  .content__button {
+    min-width: 100px;
+    font-size: 14px;
+    border-top: 10px solid #74E2EB;
+    border-bottom: 10px solid #74E2EB;
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 550px) {
+  .content__button {
+    min-width: 20px;
+    font-size: 13px;
+    border-left: 16px solid #74E2EB;
+    border-right: 16px solid #74E2EB;
+  }
+}
+
+@media (max-width: 400px) {
+  .content__button {
+    border-left: 14px solid #74E2EB;
+    border-right: 14px solid #74E2EB;
+    border-top: 4px solid #74E2EB;
+    border-bottom: 4px solid #74E2EB;
+    line-height: 20px;
+    margin-left: 12px;
+  }
+}

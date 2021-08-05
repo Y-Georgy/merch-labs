@@ -19,3 +19,16 @@
 }
 
 
+@media (max-width: 850px) {
+  .page::before {
+    left: -200px;
+  }
+}
+
+@media (max-width: 550px) {
+  .page::before {
+    left: -120px;
+  }
+}
+
+
