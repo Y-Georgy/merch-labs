@@ -7,8 +7,18 @@
     align-items: center;
     overflow: hidden;
 
-}
+    background: url(../../img/bg.svg) no-repeat;
+    background-attachment: fixed;
+    background-position: -303px 17px;
 
-/* * {
+}
+/*
+* {
   outline: orangered 1px dashed;
 } */
+
+@media (max-width: 1152px) {
+  .body {
+    background-size: 100%;
+  }
+}

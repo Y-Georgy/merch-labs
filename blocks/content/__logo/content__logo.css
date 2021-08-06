@@ -1,3 +1,26 @@
+.content__logo {
+  margin-top: 117px;
+  /* margin: 117px auto 85px; */
+}
+
+@media (max-width: 850px) {
+  .content__logo {
+    margin-top: 105px;
+  }
+}
+
+@media (max-width: 650px) {
+  .content__logo {
+    margin-top: 60px;
+  }
+}
+
+@media (max-width: 550px) {
+  .content__logo {
+    margin-top: 50px;
+  }
+}
+
 @media (max-width: 650px) {
   .content__logo {
     width: 200px;
