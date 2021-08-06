@@ -8,8 +8,7 @@
     overflow: hidden;
 
     background: url(../../img/bg.svg) no-repeat;
-    background-attachment: fixed;
-    background-position: -303px 17px;
+    background-position: calc(50% - 125px) 17px;
 
 }
 /*
@@ -17,8 +16,16 @@
   outline: orangered 1px dashed;
 } */
 
-@media (max-width: 1152px) {
+@media (max-width: 850px) {
   .body {
-    background-size: 100%;
+    background-size: 1200px;
+    background-position: calc(50% - 50px) 17px;
+  }
+}
+
+@media (max-width: 550px) {
+  .body {
+    background-size: 1000px;
+    background-position: calc(50% - 50px) 17px;
   }
 }
