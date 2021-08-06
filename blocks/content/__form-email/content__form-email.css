@@ -6,7 +6,6 @@
   background-color: #fff;
   position: relative;
   z-index: 2;
-  /* left: -8px; */
 }
 
 @media (max-width: 550px) {

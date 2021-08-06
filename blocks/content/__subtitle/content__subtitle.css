@@ -9,7 +9,6 @@
   color: #09101D;
   position: relative;
   z-index: 2;
-  /* left: -11px; */
 }
 
 @media (max-width: 850px) {

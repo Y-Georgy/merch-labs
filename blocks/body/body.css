@@ -11,10 +11,6 @@
     background-position: calc(50% - 125px) 17px;
 
 }
-/*
-* {
-  outline: orangered 1px dashed;
-} */
 
 @media (max-width: 850px) {
   .body {
