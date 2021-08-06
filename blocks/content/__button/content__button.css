@@ -2,12 +2,10 @@
   font-family: 'Source Sans Pro';
   font-weight: 600;
   background-color: #74E2EB;
-
   line-height: 24px;
   font-size: 16px;
   text-align: center;
   min-width: 168px;
-
   border-top: 12px solid #74E2EB;
   border-bottom: 12px solid #74E2EB;
   border-left: 24px solid #74E2EB;
@@ -16,6 +14,13 @@
   padding: 0;
   margin: 0 0 0 24px;
   color: #F6FFFE;
+}
+
+.content__button:hover {
+  opacity: .8;
+  color: #fff;
+  transition: color 0.5s ease, opacity 1s ease;
+  cursor: pointer;
 }
 
 @media (max-width: 850px) {

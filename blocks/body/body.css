@@ -6,10 +6,8 @@
     flex-direction: column;
     align-items: center;
     overflow: hidden;
-
     background: url(../../img/bg.svg) no-repeat;
     background-position: calc(50% - 125px) 17px;
-
 }
 
 @media (max-width: 850px) {
@@ -23,5 +21,6 @@
   .body {
     background-size: 1000px;
     background-position: calc(50% - 50px) 17px;
+    flex-direction: column;
   }
 }
